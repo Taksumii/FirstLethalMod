@@ -1,0 +1,11 @@
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\ModTobe.deps.json
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\ModTobe.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\ModTobe.pdb
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.AssemblyInfo.cs
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.pdb
