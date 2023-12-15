@@ -27,7 +27,7 @@ namespace ModTobe.Patches
                 (Object)(object)((Component)((Component)__instance).gameObject.transform.Find("FlowermanModel")
                     .Find("LOD1")).gameObject.GetComponent<SkinnedMeshRenderer>());
             GameObject val = Object.Instantiate<GameObject>(
-                BundleLoader.GetLoadedAsset<GameObject>("assets/MrHassan.png"),
+                BundleLoader.GetLoadedAsset<GameObject>("assets/MrHassan.prefab"),
                 ((Component)__instance).gameObject.transform);
             val.transform.localPosition = new Vector3(0f, 1.5f, 0f);
         }
