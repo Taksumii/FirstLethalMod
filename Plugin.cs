@@ -18,7 +18,9 @@ namespace ModTobe
 
             harmony.PatchAll(typeof(ControllerPatch));
             harmony.PatchAll(typeof(Patches.PlayerControllerBPatch));
-            
+            harmony.PatchAll(typeof(Patches.SprayPaintPatch));
+            harmony.PatchAll(typeof(Patches.BillyHassanBrackenPatch));
+
 
         }
     }

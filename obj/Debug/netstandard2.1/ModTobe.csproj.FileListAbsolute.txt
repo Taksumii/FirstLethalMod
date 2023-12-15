@@ -47,3 +47,16 @@ C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\N
 C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
 C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.sourcelink.json
 C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\obj\Debug\netstandard2.1\ModTobe.csproj.CopyComplete
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\LC_API.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\UnityEditor.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\Unity.Cecil.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\Bee.BeeDriver2.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\Bee.BinLog.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\PlayerBuildProgramLibrary.Data.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\Bee.TinyProfiler2.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\ExCSS.Unity.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\Unity.CompilationPipeline.Common.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\ScriptCompilationBuildProgram.Data.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\BeeBuildProgramCommon.Data.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\System.CodeDom.dll
+C:\Users\Acer Nitro\Desktop\LethalCompanyMods\ModTobe\bin\Debug\netstandard2.1\UnityEditor.xml
