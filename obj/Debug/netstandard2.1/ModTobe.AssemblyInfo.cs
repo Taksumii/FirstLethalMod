@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("My first plugin")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c941f20a2c029d599b7e451af9a3752937ec724")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc98ae923950e2fb1f5f9ee86d74683cf4493877")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModTobe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModTobe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
